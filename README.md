@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to 裕權的自我介紹
 
-You can use the [editor on GitHub](https://github.com/jeff14994/jeff14994.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 本區分成三個部分介紹我自己：
 
 ```markdown
-Syntax highlighted code block
+做過的專題
+1.樹莓派監視器
+2.Arduino ADXL345三軸加速規
+3.腦波訊號處理
+4.AI人工智慧
 
-# Header 1
-## Header 2
-### Header 3
+自學的項目
+1.Raspberry Pi: 使用Raspberry Pi3 model，學習Linux指令
+2.利用Arduino 做裝置藝術
+3.應用Linkit7697學習網站建置
+4.自架網站
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeff14994/jeff14994.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+參與的社團
+1.辯論社-社長
+2.黑客社-社員
+3.IOS APP社-第一屆社員
+4.網球-學員
