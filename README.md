@@ -1,5 +1,5 @@
 ## Welcome to 裕權的自我介紹
-請前往我的[自我介紹](https://jeff14994.github.io/)どうぞよろしくお願いします
+請前往我的[自我介紹](https://jeff14994.github.io/jeff_self_introduction/index.html)どうぞよろしくお願いします
 
 ### 本區分成三個部分介紹我自己：
 
